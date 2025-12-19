@@ -1,0 +1,149 @@
+{
+    "league_name": "Bundesliga 2025/26",
+    "teams": [
+        {
+            "name": "FC Bayern München",
+            "city": "Munich",
+            "played": 13,
+            "goals_scored": 49,
+            "goals_conceded": 9,
+            "points": 37
+        },
+        {
+            "name": "RB Leipzig",
+            "city": "Leipzig",
+            "played": 14,
+            "goals_scored": 30,
+            "goals_conceded": 14,
+            "points": 32
+        },
+        {
+            "name": "Borussia Dortmund",
+            "city": "Dortmund",
+            "played": 13,
+            "goals_scored": 23,
+            "goals_conceded": 11,
+            "points": 28
+        },
+        {
+            "name": "Bayer 04 Leverkusen",
+            "city": "Leverkusen",
+            "played": 13,
+            "goals_scored": 28,
+            "goals_conceded": 19,
+            "points": 23
+        },
+        {
+            "name": "TSG Hoffenheim",
+            "city": "Sinsheim",
+            "played": 13,
+            "goals_scored": 25,
+            "goals_conceded": 19,
+            "points": 23
+        },
+        {
+            "name": "VfB Stuttgart",
+            "city": "Stuttgart",
+            "played": 14,
+            "goals_scored": 22,
+            "goals_conceded": 24,
+            "points": 22
+        },
+        {
+            "name": "Eintracht Frankfurt",
+            "city": "Frankfurt",
+            "played": 13,
+            "goals_scored": 28,
+            "goals_conceded": 29,
+            "points": 21
+        },
+        {
+            "name": "1. FC Köln",
+            "city": "Cologne",
+            "played": 13,
+            "goals_scored": 22,
+            "goals_conceded": 21,
+            "points": 16
+        },
+        {
+            "name": "Sport-Club Freiburg",
+            "city": "Freiburg",
+            "played": 13,
+            "goals_scored": 20,
+            "goals_conceded": 22,
+            "points": 16
+        },
+        {
+            "name": "Borussia Mönchengladbach",
+            "city": "Mönchengladbach",
+            "played": 13,
+            "goals_scored": 17,
+            "goals_conceded": 19,
+            "points": 16
+        },
+        {
+            "name": "SV Werder Bremen",
+            "city": "Bremen",
+            "played": 13,
+            "goals_scored": 18,
+            "goals_conceded": 24,
+            "points": 16
+        },
+        {
+            "name": "1. FC Union Berlin",
+            "city": "Berlin",
+            "played": 13,
+            "goals_scored": 16,
+            "goals_conceded": 22,
+            "points": 15
+        },
+        {
+            "name": "Hamburger SV",
+            "city": "Hamburg",
+            "played": 13,
+            "goals_scored": 14,
+            "goals_conceded": 20,
+            "points": 15
+        },
+        {
+            "name": "FC Augsburg",
+            "city": "Augsburg",
+            "played": 13,
+            "goals_scored": 17,
+            "goals_conceded": 27,
+            "points": 13
+        },
+        {
+            "name": "VfL Wolfsburg",
+            "city": "Wolfsburg",
+            "played": 13,
+            "goals_scored": 17,
+            "goals_conceded": 23,
+            "points": 12
+        },
+        {
+            "name": "1. FC Heidenheim 1846",
+            "city": "Heidenheim",
+            "played": 13,
+            "goals_scored": 12,
+            "goals_conceded": 28,
+            "points": 11
+        },
+        {
+            "name": "FC St. Pauli",
+            "city": "Hamburg",
+            "played": 13,
+            "goals_scored": 11,
+            "goals_conceded": 25,
+            "points": 8
+        },
+        {
+            "name": "1. FSV Mainz 05",
+            "city": "Mainz",
+            "played": 13,
+            "goals_scored": 11,
+            "goals_conceded": 24,
+            "points": 6
+        }
+    ]
+}
